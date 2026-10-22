@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/zar-kha-654">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hi%2C%20I'm%20Zara!%20%F0%9F%8E%80" alt="Hi, I&#39;m Zara! 🎀" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ff9bce&fontSize=54&height=90&width=602&text=Hi%2C%20I'm%20Zara!%20%F0%9F%8E%80" alt="Hi, I&#39;m Zara! 🎀" />
   </a>
 </p>
 
