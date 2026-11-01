@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🎀 CS student | Aspiring AI Engineer    
+🎀 Software Engineer    
 ♡ Turning ideas into code, one project at a time    
 💗 C++ • Python • AI • always learning
 
